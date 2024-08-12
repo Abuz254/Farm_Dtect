@@ -1,0 +1,353 @@
+{
+  "Apple___Apple_scab": {
+    "Description": "A fungal disease causing dark, sunken lesions on apples.",
+    "Diagnosis": "Fungal disease causing dark, sunken lesions on apples.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or captan.",
+    "Treatment_Timing": "Apply during early disease development.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect apples for lesions. Practice good orchard sanitation, monitor for disease symptoms, and apply fungicides as needed."
+  },
+  "Apple___Black_rot": {
+    "Description": "A fungal disease causing dark, sunken lesions on apples.",
+    "Diagnosis": "Fungal disease causing dark, sunken lesions on apples.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as captan or sulfur.",
+    "Treatment_Timing": "Apply at the first sign of disease.",
+    "Prevention": "Use resistant varieties, prune infected branches.",
+    "Monitoring": "Regularly inspect for dark lesions. Practice good orchard sanitation, monitor for disease progression, and prune and remove infected plant parts."
+  },
+  "Apple___Cedar_apple_rust": {
+    "Description": "A fungal disease causing orange, rust-colored spots on leaves.",
+    "Diagnosis": "Fungal disease causing orange, rust-colored spots on leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as sulfur or myclobutanil.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, remove nearby cedar trees.",
+    "Monitoring": "Regularly inspect leaves for orange spots. Practice good orchard sanitation, monitor for disease symptoms, and remove nearby cedar trees that may harbor the pathogen."
+  },
+  "Apple___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Background_without_leaves": {
+    "Description": "Background images with no leaves.",
+    "Diagnosis": "No diagnosis required.",
+    "Recommended_Action": "None.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "N/A",
+    "Monitoring": "N/A"
+  },
+  "Blueberry___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Cherry___Powdery_mildew": {
+    "Description": "A fungal disease causing white, powdery spots on leaves and stems.",
+    "Diagnosis": "Fungal disease causing white, powdery spots on leaves and stems.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as sulfur or potassium bicarbonate.",
+    "Treatment_Timing": "Apply at the first sign of disease.",
+    "Prevention": "Improve air circulation, avoid overhead watering.",
+    "Monitoring": "Regularly inspect leaves, particularly in humid conditions. Use resistant varieties, practice good sanitation."
+  },
+  "Cherry___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Corn___Cercospora_leaf_spot_Gray_leaf_spot": {
+    "Description": "A fungal disease causing grayish spots and lesions on corn leaves.",
+    "Diagnosis": "Fungal disease causing grayish spots and lesions on corn leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil.",
+    "Treatment_Timing": "Apply at the first signs of disease.",
+    "Prevention": "Use resistant varieties, practice crop rotation.",
+    "Monitoring": "Regularly inspect leaves for gray spots and lesions. Practice crop rotation and use fungicides as needed."
+  },
+  "Corn___Common_rust": {
+    "Description": "A fungal disease causing reddish-brown pustules on corn leaves.",
+    "Diagnosis": "Fungal disease causing reddish-brown pustules on corn leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as propiconazole.",
+    "Treatment_Timing": "Apply during early disease stages.",
+    "Prevention": "Use resistant varieties, manage crop residue.",
+    "Monitoring": "Regularly inspect leaves for rust pustules. Monitor weather conditions and apply fungicides as needed."
+  },
+  "Corn___Northern_Leaf_Blight": {
+    "Description": "A fungal disease causing large, irregular spots on corn leaves.",
+    "Diagnosis": "Fungal disease causing large, irregular spots on corn leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or tebuconazole.",
+    "Treatment_Timing": "Apply during early disease development.",
+    "Prevention": "Use resistant varieties, practice crop rotation.",
+    "Monitoring": "Regularly inspect leaves for blight symptoms. Practice crop rotation and use fungicides as needed."
+  },
+  "Corn___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Grape___Black_rot": {
+    "Description": "A fungal disease causing dark, sunken lesions on grapes.",
+    "Diagnosis": "Fungal disease causing dark, sunken lesions on grapes.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as sulfur or copper-based products.",
+    "Treatment_Timing": "Apply at the first signs of disease.",
+    "Prevention": "Use resistant varieties, manage canopy density.",
+    "Monitoring": "Regularly inspect grapes for dark lesions. Practice good vineyard sanitation and monitor for disease symptoms."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "Description": "A fungal disease causing black lesions and decay on grapes.",
+    "Diagnosis": "Fungal disease causing black lesions and decay on grapes.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as copper-based products.",
+    "Treatment_Timing": "Apply during early disease stages.",
+    "Prevention": "Use resistant varieties, manage vineyard canopy.",
+    "Monitoring": "Regularly inspect for black lesions and decay. Practice good vineyard management and apply fungicides as needed."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "Description": "A fungal disease causing dark spots and blight on grape leaves.",
+    "Diagnosis": "Fungal disease causing dark spots and blight on grape leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or copper-based products.",
+    "Treatment_Timing": "Apply at the first signs of disease.",
+    "Prevention": "Use resistant varieties, manage vineyard canopy.",
+    "Monitoring": "Regularly inspect leaves for dark spots. Practice good vineyard management and apply fungicides as needed."
+  },
+  "Grape___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "Description": "A bacterial disease causing yellowing and bitter fruit in oranges.",
+    "Diagnosis": "Bacterial disease causing yellowing and bitter fruit in oranges.",
+    "Recommended_Action": "Remove and destroy infected trees.",
+    "Treatment": "No effective treatment available.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Use resistant varieties, control vector insects.",
+    "Monitoring": "Regularly inspect trees for symptoms of yellowing and bitter fruit. Monitor for vector populations and remove infected trees promptly."
+  },
+  "Peach___Bacterial_spot": {
+    "Description": "A bacterial disease causing dark spots on leaves and fruit.",
+    "Diagnosis": "Bacterial disease causing dark spots on leaves and fruit.",
+    "Recommended_Action": "Apply bactericides.",
+    "Treatment": "Bactericides such as copper-based products.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves and fruit for dark spots. Practice good orchard sanitation and apply bactericides as needed."
+  },
+  "Peach___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "Description": "A bacterial disease causing dark, sunken spots on pepper leaves and fruit.",
+    "Diagnosis": "Bacterial disease causing dark, sunken spots on pepper leaves and fruit.",
+    "Recommended_Action": "Apply bactericides.",
+    "Treatment": "Bactericides such as copper-based products.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage plant spacing.",
+    "Monitoring": "Regularly inspect leaves and fruit for dark spots. Practice good garden sanitation and apply bactericides as needed."
+  },
+  "Pepper,_bell___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Potato___Early_blight": {
+    "Description": "A fungal disease causing dark spots and lesions on potato leaves.",
+    "Diagnosis": "Fungal disease causing dark spots and lesions on potato leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or mancozeb.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves for dark spots and lesions. Practice good garden sanitation and apply fungicides as needed."
+  },
+  "Potato___Late_blight": {
+    "Description": "A fungal disease causing rapid decay of potato leaves and tubers.",
+    "Diagnosis": "Fungal disease causing rapid decay of potato leaves and tubers.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as metalaxyl or chlorothalonil.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves and tubers for signs of decay. Practice good garden sanitation and apply fungicides as needed."
+  },
+  "Potato___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Raspberry___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Soybean___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Squash___Powdery_mildew": {
+    "Description": "A fungal disease causing white, powdery spots on leaves and stems.",
+    "Diagnosis": "Fungal disease causing white, powdery spots on leaves and stems.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as sulfur or potassium bicarbonate.",
+    "Treatment_Timing": "Apply at the first sign of disease.",
+    "Prevention": "Improve air circulation and avoid overhead watering.",
+    "Monitoring": "Regularly inspect leaves, particularly in humid conditions. Use resistant varieties, practice good garden sanitation."
+  },
+  "Strawberry___Leaf_scorch": {
+    "Description": "A fungal or bacterial disease causing dark, scorched areas on strawberry leaves.",
+    "Diagnosis": "Fungal or bacterial disease causing dark, scorched areas on strawberry leaves.",
+    "Recommended_Action": "Apply fungicides or bactericides.",
+    "Treatment": "Fungicides such as copper-based products or bactericides.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves for scorched areas. Practice good garden sanitation and apply fungicides or bactericides as needed."
+  },
+  "Strawberry___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  },
+  "Tomato___Bacterial_spot": {
+    "Description": "A bacterial disease causing dark, sunken spots on tomato leaves and fruit.",
+    "Diagnosis": "Bacterial disease causing dark, sunken spots on tomato leaves and fruit.",
+    "Recommended_Action": "Apply bactericides.",
+    "Treatment": "Bactericides such as copper-based products.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage plant spacing.",
+    "Monitoring": "Regularly inspect leaves and fruit for dark spots. Practice good garden sanitation and apply bactericides as needed."
+  },
+  "Tomato___Early_blight": {
+    "Description": "A fungal disease causing dark spots and concentric rings on tomato leaves.",
+    "Diagnosis": "Fungal disease causing dark spots and concentric rings on tomato leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or mancozeb.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves for dark spots and concentric rings. Practice good garden sanitation and apply fungicides as needed."
+  },
+  "Tomato___Late_blight": {
+    "Description": "A fungal disease causing rapid decay of tomato leaves and fruit.",
+    "Diagnosis": "Fungal disease causing rapid decay of tomato leaves and fruit.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as metalaxyl or chlorothalonil.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves and fruit for signs of decay. Practice good garden sanitation and apply fungicides as needed."
+  },
+  "Tomato___Leaf_Mold": {
+    "Description": "A fungal disease causing moldy spots on the underside of tomato leaves.",
+    "Diagnosis": "Fungal disease causing moldy spots on the underside of tomato leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as potassium bicarbonate.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Improve air circulation, avoid overhead watering.",
+    "Monitoring": "Regularly inspect the undersides of leaves for mold. Use resistant varieties and apply fungicides as needed."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "Description": "A fungal disease causing dark spots with concentric rings on tomato leaves.",
+    "Diagnosis": "Fungal disease causing dark spots with concentric rings on tomato leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or mancozeb.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves for dark spots with concentric rings. Practice good garden sanitation and apply fungicides as needed."
+  },
+  "Tomato___Spider_mites_Two-spotted_spider_mite": {
+    "Description": "A pest causing webbing and stippling on tomato leaves.",
+    "Diagnosis": "Pest causing webbing and stippling on tomato leaves.",
+    "Recommended_Action": "Apply miticides.",
+    "Treatment": "Miticides such as abamectin.",
+    "Treatment_Timing": "Apply during early infestation.",
+    "Prevention": "Use resistant varieties, manage plant spacing.",
+    "Monitoring": "Regularly inspect leaves for webbing and stippling. Apply miticides as needed and manage plant spacing."
+  },
+  "Tomato___Target_Spot": {
+    "Description": "A fungal disease causing dark, sunken spots on tomato leaves with a target-like appearance.",
+    "Diagnosis": "Fungal disease causing dark, sunken spots with a target-like appearance on tomato leaves.",
+    "Recommended_Action": "Apply fungicides.",
+    "Treatment": "Fungicides such as chlorothalonil or copper-based products.",
+    "Treatment_Timing": "Apply during early stages of disease.",
+    "Prevention": "Use resistant varieties, manage moisture levels.",
+    "Monitoring": "Regularly inspect leaves for dark spots with a target-like appearance. Practice good garden sanitation and apply fungicides as needed."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "Description": "A viral disease causing yellowing and curling of tomato leaves.",
+    "Diagnosis": "Viral disease causing yellowing and curling of tomato leaves.",
+    "Recommended_Action": "Remove and destroy infected plants.",
+    "Treatment": "No effective treatment available.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Use resistant varieties, control vector insects.",
+    "Monitoring": "Regularly inspect plants for symptoms of yellowing and leaf curl. Monitor for vector populations and remove infected plants promptly."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "Description": "A viral disease causing mosaic patterns on tomato leaves.",
+    "Diagnosis": "Viral disease causing mosaic patterns on tomato leaves.",
+    "Recommended_Action": "Remove and destroy infected plants.",
+    "Treatment": "No effective treatment available.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Use resistant varieties, control vector insects.",
+    "Monitoring": "Regularly inspect plants for mosaic patterns. Monitor for vector populations and remove infected plants promptly."
+  },
+  "Tomato___healthy": {
+    "Description": "No visible signs of disease or pest damage.",
+    "Diagnosis": "No visible signs of disease or pest damage.",
+    "Recommended_Action": "No action required.",
+    "Treatment": "None.",
+    "Treatment_Timing": "N/A",
+    "Prevention": "Continue regular maintenance and monitoring.",
+    "Monitoring": "Maintain regular checks for any signs of disease. Continue regular maintenance to ensure plant health."
+  }
+}
