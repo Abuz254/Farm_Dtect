@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2.5em;
+  }
+
+  
+
+  .uploader-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 30px;
+  }
+
+  .file-uploader {
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .upload-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    color: #2c3e50;
+  }
+
+  .profile-picture {
+    height: 250px;
+    width: 250px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    background: url('https://example.com/default-image.jpg') center/cover no-repeat;
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.2);
+    margin: 0 auto 20px auto;
+  }
+
+  .profile-picture:hover .upload-icon {
+    opacity: 1;
+  }
+
+  #recommendations {
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+
+  #recommendations h2 {
+    color: #27ae60;
+    margin-bottom: 10px;
+  }
+
+  #recommendations p {
+    color: #34495e;
+    font-size: 1.1em;
+  }
