@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Font awesome for fa icons -->
+    <script src="https://use.fontawesome.com/fe459689b4.js"></script>
+    <!-- Including styles.css file -->
+    <link rel="stylesheet" type="text/css" href="../css/styles.css" />
+    <link rel="stylesheet" href="diagnostic.css"/>
+    <title>Crop Disease Detection</title>
+    <style>
+     
+    </style>
+  </head>
+  <body>
+
+    <header class="header">
+        <div class="logo">
+            <h1>Farm Detect</h1>
+        </div>
+
+        <nav class="navbar">
+            <a href="../../web_app/index.html">Home</a>
+            <a href="#features">Features</a>
+            <a href="#about">About</a>
+            <a href="#footer">Contact</a>
+           <!-- <a href="explore/index.html" class="btn">EXPLORE NOW</a> -->
+           <a href="image.html">Explore</a>
+
+        </nav>
+
+
+        <div class="fas fa-bars" id="menu-btn"></div>
+    </header>
+    
+    <br><br><br><br><br><br><br><br><br>
+    <h1>Crop Disease Detection</h1>
+
+    <div class="uploader-container">
+      <div class="profile-picture">
+        <h1 class="upload-icon">
+          <i class="fa fa-camera fa-2x" aria-hidden="true"></i>
+        </h1>
+        <input
+          class="file-uploader"
+          type="file"
+          onchange="upload()"
+          accept="image/*"
+        />
+      </div>
+      <p>Click on the image to upload a picture of your crop</p>
+    </div>
+
+    <div id="recommendations">
+      <h2>Detection Results & Recommendations</h2>
+      <p id="disease-status">No image uploaded yet.</p>
+      <p id="recommendation-text"></p>
+    </div>
+
+    <section class="features" id="features">
+      <div class="heading">
+          <h1>Key Feature</h1>
+          <p>
+            Our innovative app is designed to transform the agricultural landscape with a host of cutting-edge features! 
+            Leveraging the power of machine learning, our intelligent crop recommendation system empowers farmers to make informed decisions by analyzing crucial factors such as rainfall patterns, soil composition, nutrient levels, and real-time weather data. This ensures that crops are planted and managed with precision, optimizing yield and sustainability.
+          </p>
+          <p>
+            Additionally, our state-of-the-art plant disease detection feature harnesses advanced deep learning algorithms to deliver highly accurate and swift identification of crop diseases. By recognizing symptoms early and accurately, farmers can take proactive measures to protect their crops, thereby minimizing losses and maximizing productivity. 
+            This groundbreaking technology is set to revolutionize the way farming is done, offering a smarter, more efficient approach to agriculture that drives success and resilience in the face of challenges.
+          </p>
+          
+      </div>
+
+     <!-- <div class="button-container0">
+          <a href="https://crop-recomm.streamlit.app/" class="buttonn active">Smart Crop Guidance</a>
+          <a href="https://agrisens-crop-disease-pred.streamlit.app/" class="buttonn">Detect Plant Disease</a>
+          <a href="weather-forecast/index.html" class="buttonn">Today's Weather Forecast</a>
+          <a href="explore/index.html" class="buttonn">Explore Crop Planning</a>
+          <a href="developing-phase/index.html" class="buttonn">Profit-Oriented Farming</a>
+      </div> -->
+
+      <!--
+      <div class="row">
+       
+          <div class="image">
+              <img src="images/weather.jpg" alt="crop-planning" class="rounded-corner-image">
+          </div>
+
+          <div class="content">
+              <h1>weather Forecast</h1>
+              <p>Plan Your Farming With Precision! Check Real-Time Weather Insights On Temperature, Humidity, And
+                  More. Integrated With Our Crop-Prediction Model For Optimal Decisions. Explore Historical Data, Get
+                  Alerts, And Access Educational Resources.</p>
+              <a href="#" class="all-btn">more info</a>
+          </div>
+
+          
+
+          <div class="content">
+              <h1>Smart Crop Planning</h1>
+              <p>Harness the power of data analysis to predict crop suitability, providing insights into optimal
+                  cultivation conditions. AgriSens optimizes farming decisions based on comprehensive factors like
+                  soil quality, weather, and more.</p>
+              <a href="#" class="all-btn">more info</a>
+          </div>
+
+          <div class="image">
+              <img src="images/crop-planning.jpg" alt="crop-planning" class="rounded-corner-image">
+          </div>
+
+       
+          <div class="image">
+              <img src="images/desease-dect.jpeg" alt="Disease-Detection" class="rounded-corner-image">
+          </div>
+
+          <div class="content">
+              <h1>Plant Disease Identification</h1>
+              <p> Assist farmers in detecting plant diseases by enabling image uploads, utilizing this analysis for
+                  prompt and precise identification, enhancing farming efficiency and crop management.
+              </p>
+              <a href="#" class="all-btn">more info</a>
+          </div>
+
+
+          <div class="content">
+              <h1>Ranked Recommendations for Success</h1>
+              <p> Elevate your crop choices with AgriSens ranked suggestions, considering profitability, market
+                  demand, and local trends. Make informed decisions aligning with both land suitability and economic
+                  factors for a thriving harvest.
+              </p>
+
+              <a href="#" class="all-btn">more info</a>
+          </div> -->
+
+       <!--  <div class="image">
+              <img src="images/ranked.jpg" alt="ranked-recommendations" class="rounded-corner-image">
+          </div>
+
+          
+
+          <div class="image">
+              <img src="images/modern-farm.jpg" alt="modern-farms" class="rounded-corner-image">
+          </div>
+
+          <div class="content">
+              <h1>Innovations for Modern Farms</h1>
+              <p>Smart Crop Tech, Precision Farming, and Customizable Solutions for Sustainable and Efficient
+                  Agriculture!</p>
+              <a href="#" class="all-btn">more info</a>
+          </div>
+
+          
+
+          <div class="content">
+              <h1>User-Friendly Interface</h1>
+              <p>Our application features a user-friendly interface designed for farmers of all technological
+                  backgrounds. With simple inputs like location and crop selection, users can effortlessly access
+                  detailed information on crop suitability and recommended planting schedules. </p>
+              <a href="#" class="all-btn">more info</a>
+          </div> -->
+
+        <!--  <div class="image">
+              <img src="images/User-Friendly.jpeg" alt="user-friendly" class="rounded-corner-image">
+          </div> 
+      -->
+
+          
+      </div>
+  </section>
+
+    <!-- Including scripts.js file -->
+    <script src="diagnostic.js">
+      
+    </script>
+  </body>
+</html>
