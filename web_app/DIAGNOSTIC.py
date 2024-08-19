@@ -89,6 +89,7 @@ with col1:
         # Load the model and weights
         model = create_model()
         load_weights(model, './plant_disease_model.keras')
+        #load_weights(model, './model.weight.h5')
 
         # Preprocess the image and make a prediction
         preprocessed_image = preprocess_image(image)
