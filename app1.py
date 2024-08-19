@@ -15,7 +15,7 @@ ordered_pages = ["HOME", "DIAGNOSTIC" ,  "ABOUT", "FAQS", "CONTACT"]
 pages = {page: pages[page] for page in ordered_pages if page in pages}
 
 # Top navigation bar
-st.sidebar.title("SIDE NAV")
+st.sidebar.title("SIDE NAViGATION")
 page = st.sidebar.radio("Go to", list(pages.keys()))
 
 # Load the selected page
